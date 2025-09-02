@@ -32,7 +32,7 @@ const Experience = () => {
           pointerEvents : "none"
         }}
       >
-        Happy Republic Day
+        Happy Independence Day
       </div>
     </section>
   );
